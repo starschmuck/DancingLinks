@@ -94,5 +94,5 @@ while running:
 
 pygame.quit()
 
-imageio.mimsave('dancing0.gif', frames, fps=30)
+imageio.mimsave('dancing.gif', frames, fps=30)
 sys.exit()
